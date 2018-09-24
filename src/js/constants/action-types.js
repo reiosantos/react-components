@@ -1,0 +1,6 @@
+
+export const ACTION_TYPE = {
+	ADD_ARTICLE: "ADD_ARTICLE",
+	ADD_CARD: "ADD_CARD",
+	LOGIN_USER: "LOGIN_USER",
+};
